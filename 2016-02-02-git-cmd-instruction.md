@@ -132,4 +132,13 @@ $ **git status**
 * pull的使用:  
 **git pull origin master**  
 
+##git submodule
+
+在一个Github资源中引用另一个github资源，可以通过子模块来实现。[文档](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+
+**git submodule add https://github.com/chaconinc/DbConnector**
+
+
+
+
 [官方文档](https://git-scm.com/book/zh/v2)
