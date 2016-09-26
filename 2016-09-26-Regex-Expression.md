@@ -1,7 +1,7 @@
 title: 正则表达式语法及常用正则
 date: 2016-09-26 18:13:05
-categories: 工具资源
-tags: [工具资源,JavaScript]
+categories: 编程
+tags: [正则表达式]
 ---
 
 这一部分主要总结一些常用正则表达式的用法。

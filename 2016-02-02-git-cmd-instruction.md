@@ -3,7 +3,7 @@ layout: post
 title:  "Git Shell 基本命令(官网脱水版)"
 date:   2016-02-03
 author: 独上高楼
-category: 建站
+category: 工具资源
 tags: [github]
 ---
 ## 用户信息

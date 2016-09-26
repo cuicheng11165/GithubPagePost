@@ -3,8 +3,8 @@ layout: post
 title:  "算法导论学习笔记 一 分治算法"
 date:   2016-02-17
 author: 独上高楼
-category: 编程
-tags: [算法]
+category: 算法
+tags: [分治算法]
 ---
 这一部分主要总结一些分制算法的基本思想。
 

@@ -3,7 +3,7 @@ layout: post
 title:  "在Github上搭建自己的博客(Windows平台)"
 date:   2016-02-02
 author: 独上高楼
-category: 建站
+category: 工具资源
 tags: [github]
 ---
 

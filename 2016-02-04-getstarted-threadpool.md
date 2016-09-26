@@ -4,7 +4,7 @@ title:  ".NET线程池的介绍"
 date:   2016-02-04
 author: 独上高楼
 category: 编程
-tags: [CSharp]
+tags: [CSharp,多线程]
 ---
 
 ## 线程池
