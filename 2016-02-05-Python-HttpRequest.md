@@ -7,6 +7,11 @@ category: 编程
 tags: [Python]
 ---
 
+这一部分主要总结一些Python发送HttpRequest的相关API及其用法。
+
+<!-- more -->
+
+
 Python可以说是爬网的利器，本文主要介绍了一些python来模拟http请求的一些方法和技巧。
 
 Python处理请求的类库有两个,urllib,urllib2。 这两个类库并不是一个类库的两个不同版本，urllib主要用来处理一些url相关的内容，发送请求的时候，请求对象只能是一个url。urllib2可以用request对象来实现请求，这样就可以实现如伪造头部，设置代理，http get，http post等方法。
