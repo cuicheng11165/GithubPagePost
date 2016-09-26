@@ -7,6 +7,10 @@ category: 编程
 tags: [CSharp]
 ---
 
+主要总结一些C# Dictionary的内部工作机制。
+
+<!-- more -->
+
 
 <p>&nbsp;</p>
 <p>了解Dictionary的开发人员都了解，和List相比，字典添加会慢，但是查找会比较快，那么Dictionary是如何实现的呢？</p>

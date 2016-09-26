@@ -7,6 +7,11 @@ category: 编程
 tags: [Python]
 ---
 
+这一部分主要总结一些MongoDB的基本用法。
+
+<!-- more -->
+
+
 * [NoSql简介](http://www.runoob.com/mongodb/nosql.html)
 * [MongoDB简介](http://www.runoob.com/mongodb/mongodb-intro.html)
 * [在Windows平台下安装Mongo](http://www.runoob.com/mongodb/mongodb-window-install.html)
