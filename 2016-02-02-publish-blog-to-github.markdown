@@ -7,6 +7,11 @@ category: 工具资源
 tags: [github]
 ---
 
+github建站总结
+
+<!-- more -->
+
+
 折腾了好久，终于在Github上搭建了自己的博客。这里面总结一下过程希望对大家能有所帮助。
 
 ## Github建博优缺点

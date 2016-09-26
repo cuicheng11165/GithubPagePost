@@ -7,6 +7,11 @@ category: 编程
 tags: [CSharp]
 ---
 
+Fiddler API 基本使用介绍
+
+<!-- more -->
+
+
 <p>大家在调试Web相关的API时，经常会用Fiddler来查看相关的请求，以及返回结果。当然你也可以尝试修改或者重复你的请求信息。本文主要介绍如何使用代码来实现fiddler的功能。</p>
 <h2>Fiddler Core API</h2>
 <p>Fiddler Core几乎实现了你能用fiddler做的所有功能。直接在NuGet上搜索FiddlerCore即可下载FiddlerCore的.Net API。</p>
